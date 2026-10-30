@@ -1,4 +1,2 @@
-my first git project
-iam lahari
-from cvr college 
-30/10/2026
+ hrllo git 
+this is my my modified file.
